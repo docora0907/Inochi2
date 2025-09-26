@@ -3,24 +3,19 @@ using UnityEngine;
 public class FristSwichScript : MonoBehaviour
 {
 
-    public GameObject darkRoom;
-
-    public GameObject ok;
+    public GameObject nextRoom;
 
     public float y;
     public GameObject ca;
 
     void Start()    
     {
-        darkRoom.SetActive(false);
-        ok.SetActive(false);
+        nextRoom.SetActive(false);
     }
 
     void OnMouseDown()
     {
-        darkRoom.SetActive(true);
-        ok.SetActive(true);
-
+        nextRoom.SetActive(true);
         ca.transform.position = new Vector3(transform.position.x,y,-10);
     }
 

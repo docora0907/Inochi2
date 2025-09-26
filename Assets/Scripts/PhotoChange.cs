@@ -19,8 +19,8 @@ public class PhotoChange : MonoBehaviour
         {
             if (count < 3)
                 count++;
-            else
-                count = 1;
+            //else
+            //    count = 1;
 
             img.sprite = Resources.Load<Sprite>("Image/photo" + count.ToString());
         }

@@ -961,7 +961,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   darkRoom: {fileID: 330223994}
   ok: {fileID: 339190740}
-  y: 5
+  y: 10
   ca: {fileID: 164953729}
 --- !u!212 &1877134472
 SpriteRenderer:

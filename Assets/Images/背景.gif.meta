@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c1ee1f70a2b5d9e49a462b7ca92380e6
+guid: 56b1b942f72a9db48af1abfc1b418ec7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5743121659276990502
-    second: S__8994834-removebg-preview_0
+      213: -1843028302627794106
+    second: "\u80CC\u666F_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -84,7 +84,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Standalone
+    buildTarget: iOS
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -110,7 +110,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: iOS
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -139,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: S__8994834-removebg-preview_0
+      name: "\u80CC\u666F_0"
       rect:
         serializedVersion: 2
-        x: 32
-        y: 77
-        width: 371
-        height: 409
+        x: 0
+        y: 0
+        width: 450
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad761fc77455c40b0800000000000000
-      internalID: -5743121659276990502
+      spriteID: 64311e6068f3c66e0800000000000000
+      internalID: -1843028302627794106
       vertices: []
       indices: 
       edges: []
@@ -173,8 +173,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      S__8994834-removebg-preview_0: -5743121659276990502
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

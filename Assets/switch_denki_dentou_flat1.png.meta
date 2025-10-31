@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      switch_denki_dentou_flat1_0: 9050476555354853095
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

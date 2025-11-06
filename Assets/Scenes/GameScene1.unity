@@ -641,15 +641,15 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7864550665465196322, guid: 93f7aa69a2fa936458e86210014675ed, type: 3}
+  m_Sprite: {fileID: -4243615931895825490, guid: d62f7e78c48e4eb49a516c3c104552b7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 9.46, y: 10.4}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &198952035
@@ -661,7 +661,7 @@ Transform:
   m_GameObject: {fileID: 198952033}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.825683, y: 16.983555, z: 0}
+  m_LocalPosition: {x: 0.17, y: 30.82, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2882,7 +2882,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nextRoom: {fileID: 408330771}
-  y: 0
+  y: 30
   ca: {fileID: 164953729}
 --- !u!61 &2018899288
 BoxCollider2D:
@@ -2994,7 +2994,7 @@ Transform:
   m_GameObject: {fileID: 2018899286}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.39, y: 27.6, z: 0}
+  m_LocalPosition: {x: -1.02, y: 32.73, z: 0}
   m_LocalScale: {x: 0.6109964, y: 0.5117095, z: 0.6109964}
   m_ConstrainProportionsScale: 0
   m_Children: []

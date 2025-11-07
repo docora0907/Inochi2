@@ -45,4 +45,5 @@ public class AspectKeepScript : MonoBehaviour
         }
         //ƒJƒƒ‰‚ÌViewport‚É‘ã“ü
         _camera.rect = viewportRect;
-    }}
+    }
+}
